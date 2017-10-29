@@ -1,6 +1,5 @@
 PU = require './preferences-util'
 PreferencesSettings = require './preferences-settings'
-Util = require './util'
 
 class Preferences
 
